@@ -1,6 +1,5 @@
-style.css
-body  { font-family: sans-serif; }
 body {
+    font-family: sans-serif;
     background-color: lightyellow;
-    color:darkblue;
+    color: darkblue;
 }
