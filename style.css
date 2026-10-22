@@ -1,2 +1,6 @@
-
-</body>
+style.css
+body  { font-family: sans-serif; }
+body {
+    background-color: lightyellow;
+    color:darkblue;
+}
